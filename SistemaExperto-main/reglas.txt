@@ -1,0 +1,10 @@
+Si la motocicleta tiene más de 150 cc entonces es considerada de alto cilindraje
+Si la motocicleta tiene menos de 150 cc entonces es considerada de bajo cilindraje
+Si la motocicleta tiene al menos 3 años de antigüedad entonces es usada
+Si la motocicleta tiene menos de 3 años de antigüedad entonces es nueva
+Si la motocicleta tiene menos de 500 km recorridos entonces es casi nueva
+Si la motocicleta tiene entre 500 y 1000 km recorridos entonces es seminueva
+Si la motocicleta tiene más de 1000 km recorridos entonces es usada
+Si la motocicleta es deportiva y tiene más de 500 cc entonces es de alto rendimiento
+Si la motocicleta es deportiva y tiene menos de 500 cc entonces es de bajo rendimiento
+Si la motocicleta es chopper y tiene más de 1000 cc entonces es de alto cilindraje
